@@ -1,0 +1,10 @@
+1. Mkdir Test2
+2. Touch ~/Desktop/Test2/commands.txt
+3. Git clone "https://github.com/heiditang/gitTest2526"
+4. Mv ~/Desktop/Test2 ~/Desktop/gitTest2
+5. Git add Test2, Git commit -m "added Test2" git push origin master
+6. Nano repo.txt
+7. Git add repo.txt, git commit -m "updated repo.txt", git push origin master
+8. Touch index.html
+9. Nano index.html
+10. Git add index.html, git commit -m "updated index.html", git push origin master (x3)
