@@ -1,3 +1,4 @@
+Q1
 1. Mkdir Test2
 2. Touch ~/Desktop/Test2/commands.txt
 3. Git clone "https://github.com/heiditang/gitTest2526"
@@ -8,3 +9,17 @@
 8. Touch index.html
 9. Nano index.html
 10. Git add index.html, git commit -m "updated index.html", git push origin master (x3)
+
+Q2
+1. Git tag ver1.00, git push origin master
+2. Git branch special_feature
+3. Git checkout special_feature
+4. Grep "myhtml" ~/Desktop/assets/myfile.bak , nano index.html
+5. Git add, git commit -m, git push origin special_feature
+6. Grep "myjs" > ~/Desktop/assets/myfile.bak/index.js
+7. Git add, git commit -m, git push special_feature
+8. Grep "mycoss > ~/Desktop/assets/myfile.bak/index.css
+9. Git checkout master
+10. Git merge special_feature
+11. git Commit -m, git push origin master
+12. git tag ver1.01 , git push origin master
